@@ -93,3 +93,7 @@ We believe in making powerful data tools accessible to everyone. This license le
 - Maintain active development and strong support
 - Continue improving the platform for everyone
 - Stay sustainable as an independent project
+
+## TestBot Integration
+
+This fork includes Skyramp TestBot integration for automated test maintenance. The TestBot workflow is configured to run on pull requests to help maintain and update tests as the codebase evolves.
